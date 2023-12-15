@@ -8,6 +8,7 @@
  <p align="center"> 
  <img align="center" alt="count" src="https://count.getloli.com/get/@: bot-developer03?theme=rule34"> 
  </p>
+
 # 📊 GitHub Stats
 
 ___
@@ -46,10 +47,8 @@ ___
   </a> 
   
   <a href="mailto: smtechmods " alt="Gmail"> 
-   <img width="113px" src="https://img.shields.io/badge/-Gmail-rgb(25, 27, 30)?style=for-the-badge&logo=email&logoColor=rgb(150, 118, 228)&link=mailto: smtechofcmods@gmail.com"/>  
+   <img width="113px" src="https://img.shields.io/badge/-Gmail-rgb(25, 27, 30)?style=for-the-badge&logo=Gmail&logoColor=rgb(150, 118, 228)&link=mailto: smtechofcmods@gmail.com"/>  
   </a> 
-  
-  <a href="https://smdeveloper vercel.app/" alt="Portfolio"> 
-   <img width="192px" src="https://img.shields.io/badge/my_portfolio-rgb(25, 27, 30)?style=for-the-badge&logo=ko-fi&logoColor=rgb(150, 118, 228)&link=https://www.evander.com.br/"/> 
+   <a href="https://www.twitter.com/the_developer03" alt="twitter"> 
+   <img width="140px" src="https://img.shields.io/badge/-twitter-rgb(25, 27, 30)?style=for-the-badge&logo=twitter &logoColor=rgb(150, 118, 228)&link=https://twitter.com/The_developer03"/>  
   </a> 
- 
