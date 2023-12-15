@@ -50,5 +50,8 @@ ___
    <img width="113px" src="https://img.shields.io/badge/-Gmail-rgb(25, 27, 30)?style=for-the-badge&logo=Gmail&logoColor=rgb(150, 118, 228)&link=mailto: smtechofcmods@gmail.com"/>  
   </a> 
    <a href="https://www.twitter.com/the_developer03" alt="twitter"> 
-   <img width="140px" src="https://img.shields.io/badge/-twitter-rgb(25, 27, 30)?style=for-the-badge&logo=twitter &logoColor=rgb(150, 118, 228)&link=https://twitter.com/The_developer03"/>  
+   <img width="140px" src="https://img.shields.io/badge/-twitter-rgb(25, 27, 30)?style=for-the-badge&logo=twitter&logoColor=rgb(150, 118, 228)&link=https://twitter.com/The_developer03"/>  
+  </a> 
+ <a href="https://t.me/the_developer03" alt="Instagram"> 
+   <img width="140px" src="https://img.shields.io/badge/-telegram-rgb(25, 27, 30)?style=for-the-badge&logo=telegram&logoColor=rgb(150, 118, 228)&link=https://t.me/The_developer03"/>  
   </a> 
