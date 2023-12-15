@@ -1,4 +1,5 @@
-# 💫 About Me:
+# 💫 Bot developer
+<img src="https://telegra.ph/file/c69a935009ad50a703032.jpg"/>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bot-developer03&theme=dark&hide_border=false)<br/>
