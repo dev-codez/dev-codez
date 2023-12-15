@@ -1,15 +1,16 @@
 # 💫 Bot developer
 <img src="https://telegra.ph/file/c69a935009ad50a703032.jpg"/>
+___
  <div align="center">  
    <a href="https://git.io/typing-svg"><img 
-  src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=15ff63&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=I'm+The+Developer;New+Beginning+Developer;Please+Support+Me" 
+  src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=15ff63&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=I'm+Bot+Developer;New+Beginning+Developer;Please+Support+Me" 
   alt="Typing SVG" /></a>      
  </p> 
-
+___
  <p align="center"> 
- <img align="center" alt="count" src="https://count.getloli.com/get/@: adimas999?theme=rule34"> 
+ <img align="center" alt="count" src="https://count.getloli.com/get/@: bot-developer03?theme=rule34"> 
  </p>
-
+___
 # 📊 GitHub Stats:
 ___
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bot-developer03&theme=dark&hide_border=false)
@@ -33,22 +34,21 @@ ___
 
 <div align="center">
     <img
-        src="https://readme-typing-svg.herokuapp.com?font=Rubik+Dirt&size=25&duration=4997&color=963300&background=FF674200&center=true&vCenter=true&lines=Hi+there+Its+the+developer+;Thanks+for+Visiting+;Follow+my+github"
+        src="https://readme-typing-svg.herokuapp.com?font=Rubik+Dirt&size=25&duration=4997&color=963370&background=FF674200&center=true&vCenter=true&lines=Hi+there+Its+bot+developer+;Thanks+for+Visiting+;Follow+my+github"
             alt="Typing SVG"
         />
     </a>
 
 ## 👨🏻‍💼 &nbsp;Connect with Me 
-  ![x97QegXymC](https://github.com/thedeveloper03/thedeveloper03/assets/123274423/988ca430-c243-459c-ba07-6b899eb52a2d)
 
- <p align="left"> 
+<p align="center"> 
   
-  <a href="https://www.instagram.com/the_developer.01" alt="Linkedin"> 
-   <img width="140px" src="https://img.shields.io/badge/-Instagram-rgb(25, 27, 30)?style=for-the-badge&logo=Instagram&logoColor=rgb(150, 118, 228)&link=https://instagram.com/The_developer.01"/>  
+  <a href="https://www.instagram.com/the_developer.01" alt="Instagram"> 
+   <img width="140px" src="https://img.shields.io/badge/-Instagram-rgb(25, 27, 30)?style=for-the-badge&logo=instagram&logoColor=rgb(150, 118, 228)&link=https://instagram.com/The_developer.01"/>  
   </a> 
   
   <a href="mailto: smtechmods " alt="Gmail"> 
-   <img width="113px" src="https://img.shields.io/badge/-Gmail-rgb(25, 27, 30)?style=for-the-badge&logo=Gmail&logoColor=rgb(150, 118, 228)&link=mailto: smtechofcmods@gmail.com"/>  
+   <img width="113px" src="https://img.shields.io/badge/-Gmail-rgb(25, 27, 30)?style=for-the-badge&logo=email&logoColor=rgb(150, 118, 228)&link=mailto: smtechofcmods@gmail.com"/>  
   </a> 
   
   <a href="https://smdeveloper vercel.app/" alt="Portfolio"> 
