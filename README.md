@@ -8,7 +8,8 @@
  <p align="center"> 
  <img align="center" alt="count" src="https://count.getloli.com/get/@: bot-developer03?theme=rule34"> 
  </p>
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
+
 ___
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bot-developer03&theme=dark&hide_border=false)
 ___
