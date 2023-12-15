@@ -1,5 +1,14 @@
 # 💫 Bot developer
 <img src="https://telegra.ph/file/c69a935009ad50a703032.jpg"/>
+ <div align="center">  
+   <a href="https://git.io/typing-svg"><img 
+  src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=15ff63&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=I'm+The+Developer;New+Beginning+Developer;Please+Support+Me" 
+  alt="Typing SVG" /></a>      
+ </p> 
+
+ <p align="center"> 
+ <img align="center" alt="count" src="https://count.getloli.com/get/@: adimas999?theme=rule34"> 
+ </p>
 
 # 📊 GitHub Stats:
 ___
