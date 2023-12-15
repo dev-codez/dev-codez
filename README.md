@@ -12,30 +12,14 @@
     <img
         src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=Thanks+for+your+visit;+Chat+me+below👇;+Bye+Have+a+good+Day"
 
-<!-- Contact Bot developer -->
-<b><details><summary>Click to Chat Me</summary></b>
 
-## ```Connect With Me```
-
-## Follow me on
-<a href="http://t.me/the_developer01"><img alt="Telegram bot" src="https://img.shields.io/badge/Telegram-The-Developer-blue"/></a>
- <a href="https://instagram.com/the_developer.01"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-the_developer01-ff69b4"/></a>
-<a href="https://m.youtube.com/the_developer03"><img src="https://img.shields.io/badge/Subscribe The developer-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
-</details>
-
-<b><details><summary>📊Github Status</summary>
-
-<p align = 'right'>
-</p>
-
-
-![Github Badges](https://github-readme-stats.vercel.app/api?username=mrjuice01&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200)
+![Github Badges](https://github-readme-stats.vercel.app/api?username=bot-developer03&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200)
 <br>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrjuice01&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200)](https://github.com/mrjuice01/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bot-developer03 &show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200)](https://github.com/bot-developer03/github-readme-stats)<br>
 <p align="right">
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=mrjuice01&row=2&column=3&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=bot-developer03&row=2&column=3&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200)](https://github.com/ryo-ma/github-profile-trophy)
 
 </p>
 
