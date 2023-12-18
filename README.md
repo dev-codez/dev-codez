@@ -8,7 +8,9 @@
  <p align="center"> 
  <img align="center" alt="count" src="https://count.getloli.com/get/@: bot-developer03?theme=rule34"> 
  </p>
-
+<div align="left">
+Hello babies, my name is bot developer and I'm a bot developer. Currently working on WhatsApp bots 🎸✨
+</div>
 # 📊 GitHub Stats
 
 ___
@@ -19,6 +21,17 @@ ___
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bot-developer03&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200)
 ___
  [![trophy](https://github-profile-trophy.vercel.app/?username=bot-developer03&row=2&column=3&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+# > <code>⠀⠀💻⠀⠀Skills⠀⠀</code>
+<p align="center">
+  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="95" hight="45">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+</p>
+
 ___
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
