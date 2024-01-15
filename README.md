@@ -1,12 +1,12 @@
-# 💫 Bot developer
+# 💫 Dev-codez
 <img src="https://telegra.ph/file/c69a935009ad50a703032.jpg"/>
  <div align="center">  
    <a href="https://git.io/typing-svg"><img 
-  src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=15ff63&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=I'm+Bot+Developer;New+Beginning+Developer;Please+Support+Me" 
+  src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=15ff63&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=I'm+dev+codez;New+Beginning+Developer;Please+Support+Me" 
   alt="Typing SVG" /></a>      
  </p> 
  <p align="center"> 
- <img align="center" alt="count" src="https://count.getloli.com/get/@: bot-developer03?theme=rule34"> 
+ <img align="center" alt="count" src="https://count.getloli.com/get/@:dev-codez?theme=rule34"> 
  </p>
 <div align="left">
 Hello babies, my name is bot developer and I'm a bot developer. Currently working on WhatsApp bots 🎸✨
@@ -15,9 +15,9 @@ Hello babies, my name is bot developer and I'm a bot developer. Currently workin
 # 📊 GitHub Stats
 
 ___
-![](https://github-readme-streak-stats.herokuapp.com/?user=bot-developer03&theme=dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=dev-codez&theme=dark&hide_border=false)
 ___
-![Github Badges](https://github-readme-stats.vercel.app/api?username=bot-developer03&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200)
+![Github Badges](https://github-readme-stats.vercel.app/api?username=dev-codez&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200)
 ___
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bot-developer03&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200)
 ___
