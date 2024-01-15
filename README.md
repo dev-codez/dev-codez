@@ -19,9 +19,9 @@ ___
 ___
 ![Github Badges](https://github-readme-stats.vercel.app/api?username=dev-codez&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200)
 ___
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bot-developer03&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-codez&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200)
 ___
- [![trophy](https://github-profile-trophy.vercel.app/?username=bot-developer03&row=2&column=3&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200)](https://github.com/ryo-ma/github-profile-trophy)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=dev-codez&row=2&column=3&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 # > <code>⠀⠀💻⠀⠀Skills⠀⠀</code>
@@ -47,7 +47,7 @@ ___
 
 <div align="center">
     <img
-        src="https://readme-typing-svg.herokuapp.com?font=Rubik+Dirt&size=25&duration=4997&color=963370&background=FF674200&center=true&vCenter=true&lines=Hi+there+Its+bot+developer+;Thanks+for+Visiting+;Follow+my+github"
+        src="https://readme-typing-svg.herokuapp.com?font=Rubik+Dirt&size=25&duration=4997&color=963370&background=FF674200&center=true&vCenter=true&lines=Hi+there+Its+dev+codez+;Thanks+for+Visiting+;Follow+my+github"
             alt="Typing SVG"
         />
     </a>
